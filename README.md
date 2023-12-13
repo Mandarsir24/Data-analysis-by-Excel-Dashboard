@@ -14,4 +14,4 @@ First Download Data
 ✅ Finally, I built a dashboard in Excel with slicers, which allows users to interact with the data and view it in different ways.
   **this is my first project on Github ,You can see this Project by click on view raw**
   **Here is the some Glimps of Excel Dashboard**
-  ![Dashboard](
+  ![Dashboard](https://github.com/Mandarsir24/Data-analysis-by-Excel-Dashboard/blob/main/img2.png)
