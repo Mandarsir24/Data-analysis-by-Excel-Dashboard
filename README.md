@@ -13,5 +13,5 @@ First Download Data
 ✅ Created Pivot tables, different Charts, and Graphs 📊 to summarise and visualize the sales data and identify trends and patterns and make it easier to understand.
 ✅ Finally, I built a dashboard in Excel with slicers, which allows users to interact with the data and view it in different ways.
   **this is my first project on Github ,You can see this Project by click on view raw**
-  **Here is the some Glimps of Excel Dashboard**
+##  **Here is the some Glimps of Excel Dashboard**
   ![Dashboard](https://github.com/Mandarsir24/Data-analysis-by-Excel-Dashboard/blob/main/img2.png)
