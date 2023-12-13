@@ -5,9 +5,10 @@ I Have currently Completed a project on Excel. The name of my project is "Econom
 #**Main Objective:**
 Analyze the sales data .
 Understand sales trends in different regions and product categories.
+
 To achieve the goal of this project, I have completed several tasks.
-First Download Data 
- Understanding the downloaded dataset properly.
+
+First Download Data then Understanding the downloaded dataset properly.
 ✅ Then I Checked any duplicates, spaces, and special characters.
 
 ✅ This Excel Sheet Contains Cleaned and Organized Data.
