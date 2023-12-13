@@ -9,6 +9,7 @@ Understand sales trends in different regions and product categories.
 To achieve the goal of this project, I have completed several tasks.
 
 First Download Data then Understanding the downloaded dataset properly.
+
 ✅ Then I Checked any duplicates, spaces, and special characters.
 
 ✅ This Excel Sheet Contains Cleaned and Organized Data.
