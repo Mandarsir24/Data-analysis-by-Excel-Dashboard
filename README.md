@@ -12,3 +12,4 @@ First Download Data
 ✅ This Excel Sheet Contains Cleaned and Organized Data.
 ✅ Created Pivot tables, different Charts, and Graphs 📊 to summarise and visualize the sales data and identify trends and patterns and make it easier to understand.
 ✅ Finally, I built a dashboard in Excel with slicers, which allows users to interact with the data and view it in different ways.
+  this is my first project on Github ,You can see this Project by click on view raw 
